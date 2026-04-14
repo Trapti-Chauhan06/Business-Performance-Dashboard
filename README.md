@@ -16,4 +16,8 @@ Data Cleaning & Visualization
 Insights
 Detected high-profit regions and loss areas
 Improved decision-making using data visualization
+Dashboard Preview
+
+![Dashboard](Business_Dashboard.png)
+
 
